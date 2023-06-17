@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.exe.config
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.exe
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.pdb
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.Form1.resources
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.Properties.Resources.resources
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.exe
+C:\Users\HP\source\repos\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.pdb
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.exe.config
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.exe
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\bin\Debug\kalkulator_uas.pdb
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csprojAssemblyReference.cache
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.Form1.resources
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.Properties.Resources.resources
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csproj.GenerateResource.cache
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.exe
+D:\Tugas\Semester 5\Pemrograman Berorientasi Objek\TGS NGTT\kalkulator_uas\kalkulator_uas\obj\Debug\kalkulator_uas.pdb
